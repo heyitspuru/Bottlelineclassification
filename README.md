@@ -1,2 +1,1 @@
-# Bottlelineclassification
-this is a coca cola bottle image dataset containing images categorized as underfilled, overfilled and normalfilled
+The repo containes the full Implemented code ipynb file with the original dataset from cocacola fault detector, and a sample folder of cleaned/cropped images dataset that is used in the process. while executing this , We need to make sure we clean the dataset Manually. If someone requires the full cleaned dataset drop a dm @pururajdhama2004@gmail.com
