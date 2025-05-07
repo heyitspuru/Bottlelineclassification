@@ -39,6 +39,7 @@ This repository presents a deep learning-based project for classifying bottle im
 | Custom CNN (baseline) | 71%      | 0.72      | 0.71   | 0.71     |
 | Custom CNN (tuned)    | 98%      | 0.98      | 0.98   | 0.98     |
 | MobileNetV2           | 98%      | 0.98      | 0.98   | 0.98     |
+
 MobileNetV2 outperformed the baseline model in all metrics and demonstrated superior generalization and class balance handling.
 
 🛠️ Tech Stack
