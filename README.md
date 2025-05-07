@@ -61,20 +61,14 @@ Evaluation: Scikit-learn 1.3.0, Matplotlib 3.7.1
 Clone the repository:
 Copy
 Edit
-git clone https://github.com/yourusername/bottle-fill-level-classification.git
-cd bottle-fill-level-classification
+git clone https://github.com/heyitspuru/Bottlelineclassification.git
+cd Bottlelineclassification
 
 Install the required libraries:
 Copy
 Edit
 pip install -r requirements.txt
-Run the notebooks:
-
-notebooks/cnn_model.ipynb
-
-notebooks/mobilenetv2_model.ipynb
-
-notebooks/unsupervised_learning.ipynb
+Run the provided colab notebook in the repository
 
 🤝 Contributions
 Feel free to fork this repo, make improvements, and submit a pull request!
